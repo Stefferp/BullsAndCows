@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.vc.*
+.vs
+BullCowGame/Debug/*
+BullCowGame/x64/*
+x64/*
